@@ -3,7 +3,7 @@ To get internet to connect from your in-game computer to your IRL computer, try 
 * https://github.com/Paranoidlabs/oc2/tree/develop
 * https://github.com/Ktlo/oc2/tree/internet-card
 
-I used the second b/c I couldn't figure out how to use the first.
+I used the second because I couldn't figure out how to use the first.
 The [OC2's main branch](https://github.com/fnuecke/oc2) is a few commits ahead, but you can merge either fork into main and it works fine.
 
 Guide on how to connect to the internet using Ktlo's fork:
